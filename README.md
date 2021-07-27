@@ -4,7 +4,7 @@
 
 - [Home page](https://zongheng.pro)
 - [Blog](https://blog.zongheng.pro)
-- <276229118@qq.com>
+- <contact@zongheng.pro>
 
 ![Adam's github stats](https://github-readme-stats-xi-nine.vercel.app/api?username=hzw1199&show_icons=true&theme=default&count_private=true)
 
